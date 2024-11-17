@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **full stack web development (MERN)**
 
-- 👨‍💻 All of my projects are available at ([chetandighole.netlify.app](https://chetandighole.vercel.app/))
+- 👨‍💻 All of my projects are available at ([chetandighole.vercel.app](https://chetandighole.vercel.app/))
 
 - 📝 I regularly write articles on [https://hashnode.com/@ChetanD](https://hashnode.com/@ChetanD)
 
