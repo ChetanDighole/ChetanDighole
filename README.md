@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chetan Dighole</h1>
+<!-- <h1 align="center">Hi 👋, I'm Chetan Dighole</h1>
 <h3 align="center">Wrote "Hello World" in COVID-19 lockdown, started with C++ but found passion in web development.</h3>
 
 - 🌱 I’m currently learning **full stack web development (MERN)**
@@ -24,4 +24,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chetandighole&show_icons=true&locale=en" alt="chetandighole" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chetandighole&" alt="chetandighole" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chetandighole&" alt="chetandighole" /></p> -->
